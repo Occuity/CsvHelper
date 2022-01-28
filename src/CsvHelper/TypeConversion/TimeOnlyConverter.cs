@@ -5,6 +5,7 @@
 #if NET6_0
 using CsvHelper.Configuration;
 using System.Globalization;
+using System;
 
 namespace CsvHelper.TypeConversion
 {
